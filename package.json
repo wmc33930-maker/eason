@@ -1,0 +1,8 @@
+{
+  "name": "daicai-scratch-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "帶財商號財神爺刮刮卡網站",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
